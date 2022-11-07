@@ -1,6 +1,5 @@
 (* MA CLASSE BIG_INT*)
 
-
 let pui2 n = 1 lsl n;; (*Calcul 2**n*)
 
 

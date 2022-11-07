@@ -82,11 +82,3 @@ n'ont pas change*)
             h <=> b.hash1 &&
             aux b.hash0 q
     in (verification_bloc last_b) && (aux last_b.hash0 (List.tl blockchain));;
-    
-
-    
-            
-  
-            
-    
-			 
